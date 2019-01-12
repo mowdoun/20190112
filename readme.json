@@ -2,77 +2,34 @@
  "name": "flare",
  "children": [
   {
-   "name": "五結鄉",
+   "name": "宜蘭縣",
    "children": [
     {
-     "name": "成興村",
+     "name": "五結鄉",
      "children": [
-      {"name": "張金發", "size": 80000}
-     ]
-    },
-    {
-     "name": "大吉村",
-     "children": [
-      {"name": "林秀英", "size": 24800}
-     ]
-    },
-    {
-     "name": "五結村",
-     "children": [
-      {"name": "黃文宏", "size": 0}
-     ]
-    },
-    {
-     "name": "四結村",
-     "children": [
-      {"name": "陳逸德", "size": 83800}
-     ]
-    },
-    {
-     "name": "鎮安村",
-     "children": [
+      {"name": "張金發", "size": 80000},
+      {"name": "林秀英", "size": 24800},
+      {"name": "黃文宏", "size": 0},
+      {"name": "陳逸德", "size": 83800},
       {"name": "張朝松", "size": 0}
      ]
-    }
-   ]
-  },
-  {
-   "name": "員山鄉",
-   "children": [
+    },
     {
-     "name": "湖西村",
+     "name": "員山鄉",
      "children": [
       {"name": "張明昌", "size": 0}
-     ]
-    },
-    {
-     "name": "同樂村",
-     "children": [
-      {"name": "張正昌", "size": 43000}
-     ]
-    },
-    {
-     "name": "中華村",
-     "children": [
-      {"name": "周文科", "size": 0}
-     ]
-    },
-    {
-     "name": "深溝村",
-     "children": [
-      {"name": "謝阿牛", "size": 0}
-     ]
-    },
-    {
-     "name": "七賢村",
-     "children": [
-      {"name": "高明芳", "size": 24000}
-     ]
-    },
-    {
-     "name": "惠好村",
-     "children": [
+      {"name": "張正昌", "size": 43000},
+      {"name": "周文科", "size": 0},
+      {"name": "謝阿牛", "size": 0},
+      {"name": "高明芳", "size": 24000},
       {"name": "黃永乾", "size": 0}
+     ]
+    },
+    {
+     "name": "礁溪鄉",
+     "children": [
+      {"name": "黃朝明", "size": 56000},
+      {"name": "阮雪芳", "size": 200000}
      ]
     }
    ]
